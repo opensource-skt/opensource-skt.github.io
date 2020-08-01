@@ -7,10 +7,10 @@ highlighter: null
 markdown: kramdown
 extensions: [fenced_code_blocks]
 excerpt_separator: "<!--more-->"
-url: https://opensource-skt.github.io
-baseurl: "/opensource-skt"
-# url: ""
-# baseurl: ""
+# url: https://opensource-skt.github.io
+# baseurl: "/opensource-skt"
+url: ""
+baseurl: ""
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
@@ -23,7 +23,6 @@ google_ad_client: ca-pub-9204963049240271
 post_limit: 5
 
 
-#title : Helium Jekyll
 title : SKT Open Source Software
 tagline: Bootstrap 4 UI kit for jekyll
 author : 
@@ -41,7 +40,7 @@ author :
   # pinterest: 
   # feedburner : 
 
-twitter_username: lantoniotrento
+twitter_username: 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
 # Most places will/should use BASE_PATH to make the urls
