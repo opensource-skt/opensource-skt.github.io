@@ -7,10 +7,10 @@ highlighter: null
 markdown: kramdown
 extensions: [fenced_code_blocks]
 excerpt_separator: "<!--more-->"
-# url: https://heliumjk.github.io
-# baseurl: "/heliumjk.github.io"
-url: ""
-baseurl: ""
+url: https://opensource-skt.github.io
+baseurl: "/opensource-skt"
+# url: ""
+# baseurl: ""
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
